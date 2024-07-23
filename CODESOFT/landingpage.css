@@ -1,0 +1,54 @@
+.cont{
+
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+.cont3{
+    
+    display: flex;
+    flex-direction: row;
+}
+.cont4{
+    font-size: large;
+    margin-right: 60px;
+}
+.cont5{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: xx-large;
+    align-items:center;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+.but1{
+    width: 100px;
+    height: 40px;
+    color: aqua;
+    background-color: pink;
+    margin-top: 40px;
+    margin-left:150px;
+}
+.but1:hover{
+    background-color: palevioletred;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffdab9; 
+
+}
+.img{
+    background-image: url(https://www.glam.com/img/gallery/colors-you-need-to-ditch-from-your-wardrobe-asap/intro-1675298765.jpg);
+    background-size: 100% auto;
+}
+.main1{
+    margin-left: 250px;
+}
+.main2{
+    margin-left: 400px;
+}

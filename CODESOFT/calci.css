@@ -1,0 +1,22 @@
+#a
+{
+    background-color: aqua;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.result
+{
+    background-color:azure;
+    color: black;
+    font-size:small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.b{
+  background-color: black; 
+  color: yellow; 
+  font-size:larger;
+  box-sizing: border-box;
+  padding: 25px;
+}
